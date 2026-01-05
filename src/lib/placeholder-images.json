@@ -1,3 +1,118 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-banner-1",
+      "description": "A diverse group of people singing in a modern church.",
+      "imageUrl": "https://images.unsplash.com/photo-1613093335399-829e30811789?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3b3JzaGlwJTIwY29uY2VydHxlbnwwfHx8fDE3Njc1MzQ3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "worship concert"
+    },
+    {
+      "id": "hero-banner-2",
+      "description": "A close-up of a person's hands raised in worship during a concert.",
+      "imageUrl": "https://images.unsplash.com/photo-1759592702555-7fc4b68b4755?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwcmFpc2UlMjBoYW5kc3xlbnwwfHx8fDE3Njc2MTI4ODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "praise hands"
+    },
+    {
+      "id": "hero-banner-3",
+      "description": "An empty, beautifully lit auditorium stage before a show.",
+      "imageUrl": "https://images.unsplash.com/photo-1567942712661-82b9b407abbf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb25jZXJ0JTIwc3RhZ2V8ZW58MHx8fHwxNzY3NTAwNTI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "concert stage"
+    },
+    {
+      "id": "music-album-1",
+      "description": "Abstract cover art for a music album.",
+      "imageUrl": "https://images.unsplash.com/photo-1711054824441-064a99073a0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhbGJ1bSUyMGNvdmVyfGVufDB8fHx8MTc2NzYwNDQ2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "album cover"
+    },
+    {
+      "id": "music-album-2",
+      "description": "Serene landscape for a music album cover.",
+      "imageUrl": "https://images.unsplash.com/photo-1610552050890-fe99536c2615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxuYXR1cmUlMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzY3NTI5NjMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nature landscape"
+    },
+    {
+      "id": "music-album-3",
+      "description": "Minimalist geometric design for an album cover.",
+      "imageUrl": "https://images.unsplash.com/photo-1605106702842-01a887a31122?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhYnN0cmFjdCUyMGRlc2lnbnxlbnwwfHx8fDE3Njc1MzY0NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract design"
+    },
+    {
+      "id": "music-video-1",
+      "description": "A cinematic shot from a music video, showing a band playing outdoors.",
+      "imageUrl": "https://images.unsplash.com/photo-1660215546109-57352d32408c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxiYW5kJTIwcGxheWluZ3xlbnwwfHx8fDE3Njc2MTI4ODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "band playing"
+    },
+    {
+      "id": "music-video-2",
+      "description": "A lead singer performing with passion into a microphone.",
+      "imageUrl": "https://images.unsplash.com/photo-1561446289-4112a4f79116?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzaW5nZXIlMjBtaWNyb3Bob25lfGVufDB8fHx8MTc2NzYxMjg4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "singer microphone"
+    },
+    {
+      "id": "music-live-1",
+      "description": "A crowd at a live worship event with hands in the air.",
+      "imageUrl": "https://images.unsplash.com/photo-1662151838162-5d5c387765a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3b3JzaGlwJTIwY3Jvd2R8ZW58MHx8fHwxNzY3NjEyODgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "worship crowd"
+    },
+    {
+      "id": "music-live-2",
+      "description": "A guitarist playing on stage, lit by spotlights.",
+      "imageUrl": "https://images.unsplash.com/photo-1606614520047-8ad516d9d84b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxndWl0YXJpc3QlMjBzdGFnZXxlbnwwfHx8fDE3Njc2MTI4ODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "guitarist stage"
+    },
+    {
+      "id": "event-image-1",
+      "description": "A wide shot of a worship conference.",
+      "imageUrl": "https://images.unsplash.com/photo-1760001551764-14eddf965019?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb25mZXJlbmNlJTIwY3Jvd2R8ZW58MHx8fHwxNzY3NjEyODgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "conference crowd"
+    },
+    {
+      "id": "event-image-2",
+      "description": "A group of people in a small prayer circle.",
+      "imageUrl": "https://images.unsplash.com/photo-1609234656388-0ff363383899?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwcmF5ZXIlMjBncm91cHxlbnwwfHx8fDE3Njc2MTI4ODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "prayer group"
+    },
+    {
+      "id": "event-image-3",
+      "description": "A person streaming a live event on their laptop.",
+      "imageUrl": "https://images.unsplash.com/photo-1628565239608-47549a1126e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxsaXZlc3RyZWFtJTIwbGFwdG9wfGVufDB8fHx8MTc2NzYxMjg4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "livestream laptop"
+    },
+    {
+      "id": "social-user-1",
+      "description": "Logo for PraiseMotion band.",
+      "imageUrl": "https://images.unsplash.com/photo-1573788708917-cb705d8a7ca8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxiYW5kJTIwbG9nb3xlbnwwfHx8fDE3Njc2MTI4ODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "band logo"
+    },
+    {
+      "id": "social-post-1",
+      "description": "A candid photo of the band laughing together.",
+      "imageUrl": "https://images.unsplash.com/photo-1759013079026-b71826909c7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxiYW5kJTIwbGF1Z2hpbmd8ZW58MHx8fHwxNzY3NjEyODgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "band laughing"
+    },
+    {
+      "id": "social-post-2",
+      "description": "A short video clip of a soundcheck.",
+      "imageUrl": "https://images.unsplash.com/photo-1651339764881-54e8338b185b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzb3VuZGNoZWNrJTIwc3RhZ2V8ZW58MHx8fHwxNzY3NjEyODgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "soundcheck stage"
+    },
+    {
+      "id": "social-post-3",
+      "description": "A promotional graphic for a new single.",
+      "imageUrl": "https://images.unsplash.com/photo-1701141311633-855eec1b0bb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtdXNpYyUyMGdyYXBoaWN8ZW58MHx8fHwxNzY3NjEyODgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "music graphic"
+    },
+    {
+      "id": "map-placeholder",
+      "description": "A stylized map showing a generic location.",
+      "imageUrl": "https://images.unsplash.com/photo-1566935843973-aed0ddcb0ecc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3b3JsZCUyMG1hcHxlbnwwfHx8fDE3Njc2MDA1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "world map"
+    },
+    {
+      "id": "donate-page-header",
+      "description": "Hands holding a glowing heart.",
+      "imageUrl": "https://images.unsplash.com/photo-1762114432828-2aa275bc1db6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxnaXZpbmclMjBjaGFyaXR5fGVufDB8fHx8MTc2NzYxMjg4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "giving charity"
+    }
+  ]
 }
