@@ -32,6 +32,34 @@ const bandMembers: BandMember[] = [
     bio: 'Ben is the sonic architect, weaving together lush pads, soaring synth leads, and classical piano melodies. His deep knowledge of music theory adds a rich complexity to the band\'s arrangements.',
     imageId: 'member-ben',
   },
+  {
+    id: 'member-ethan',
+    name: 'Ethan',
+    role: 'Electric Guitar',
+    bio: 'Ethan\'s soaring guitar solos and atmospheric textures are a signature of the band\'s live shows. His technical skill is matched only by his desire to worship.',
+    imageId: 'member-ethan',
+  },
+  {
+    id: 'member-maya',
+    name: 'Maya',
+    role: 'Backing Vocals & Keys',
+    bio: 'Maya\'s harmonies are the heavenly glue that holds the vocals together. Her versatile musicianship and joyful spirit lift every song.',
+    imageId: 'member-maya',
+  },
+  {
+    id: 'member-noah',
+    name: 'Noah',
+    role: 'Acoustic Guitar & Mandolin',
+    bio: 'Noah brings a folk and roots influence to the band\'s sound. His storytelling through song adds a layer of depth and intimacy to their worship.',
+    imageId: 'member-noah',
+  },
+  {
+    id: 'member-sophia',
+    name: 'Sophia',
+    role: 'Cello & Strings',
+    bio: 'Sophia\'s classical training brings an orchestral elegance to the band. Her cello arrangements create moments of profound beauty and reflection.',
+    imageId: 'member-sophia',
+  },
 ];
 
 export default function AboutPage() {
@@ -75,7 +103,7 @@ export default function AboutPage() {
           </p>
         </div>
         
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 max-w-6xl mx-auto">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 max-w-7xl mx-auto">
           {bandMembers.map(member => {
             const image = PlaceHolderImages.find(p => p.id === member.imageId);
             return (

@@ -15,13 +15,13 @@
     {
       "id": "hero-banner-3",
       "description": "An empty, beautifully lit auditorium stage before a show.",
-      "imageUrl": "https://images.unsplash.com/photo-1567942712661-82b9b407abbf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb25jZXJ0JTIwc3RhZ2V8ZW58MHx8fHwxNzY3NTAwNTI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1567942712661-82b9b407abbf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb25jZXJ0JTIwc3RhZ2V8ZW58MHx8fHwxNzY3NTAwNTI3fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "concert stage"
     },
     {
       "id": "music-album-1",
       "description": "Abstract cover art for a music album.",
-      "imageUrl": "https://images.unsplash.com/photo-1711054824441-064a99073a0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhbGJ1bSUyMGNvdmVyfGVufDB8fHx8MTc2NzYwNDQ2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1711054824441-064a99073a0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhbGJ1bSUyMGNvdmVyfGVufDB8fHx8MTc2NzYwNDQ2OXww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "album cover"
     },
     {
@@ -129,13 +129,13 @@
     {
       "id": "about-header",
       "description": "The band performing on a brightly lit stage.",
-      "imageUrl": "https://images.unsplash.com/photo-1552595458-e8ad6af8aa10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxiYW5kJTIwc3RhZ2V8ZW58MHx8fHwxNzY3NTU2ODA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1552595458-e8ad6af8aa10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxiYW5kJTIwc3RhZ2V8ZW58MHx8fHwxNzY3NTU2ODA1fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "band stage"
     },
     {
       "id": "member-leah",
       "description": "Portrait of Leah, the lead singer.",
-      "imageUrl": "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2NzU3OTc1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2NzU3OTc1Mnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "woman portrait"
     },
     {
@@ -147,14 +147,38 @@
     {
       "id": "member-chloe",
       "description": "Portrait of Chloe, the drummer.",
-      "imageUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d29tYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3Njc1Nzk3NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d29tYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3Njc1Nzk3NTJ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "woman portrait"
     },
     {
       "id": "member-ben",
       "description": "Portrait of Ben, the keyboardist.",
-      "imageUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3Njc1NjE3NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3Njc1NjE3NDZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "man portrait"
+    },
+    {
+      "id": "member-ethan",
+      "description": "Portrait of Ethan, the electric guitarist.",
+      "imageUrl": "https://images.unsplash.com/photo-1543132791-5152244a1487?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3Njc1NjE3NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "member-maya",
+      "description": "Portrait of Maya, a backing vocalist.",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2NzU3OTc1Mnww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "member-noah",
+      "description": "Portrait of Noah, an acoustic guitarist.",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3Njc1NjE3NDZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "member-sophia",
+      "description": "Portrait of Sophia, the cellist.",
+      "imageUrl": "https://images.unsplash.com/photo-1557053910-d9eadeed1c58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2NzU3OTc1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
     }
   ]
 }
