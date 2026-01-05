@@ -9,13 +9,13 @@ import type { MediaItem } from '@/lib/types';
 import { Disc, PlayCircle, Podcast, Video } from 'lucide-react';
 
 const musicData: MediaItem[] = [
-  { id: '1', type: 'song', title: 'Grace that Overflows', artist: 'PraiseMotion', thumbnailId: 'music-album-1', embedUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
-  { id: '2', type: 'song', title: 'Unending Praise', artist: 'PraiseMotion', thumbnailId: 'music-album-2', embedUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
-  { id: '3', type: 'song', title: 'Anchor of My Soul', artist: 'PraiseMotion', thumbnailId: 'music-album-3', embedUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
-  { id: '4', type: 'video', title: 'Live at the Cathedral', artist: 'PraiseMotion', thumbnailId: 'music-video-1', embedUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
-  { id: '5', type: 'video', title: 'Behind the Music', artist: 'PraiseMotion', thumbnailId: 'music-video-2', embedUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
-  { id: '6', type: 'live', title: 'Acoustic Worship Sessions', artist: 'PraiseMotion', thumbnailId: 'music-live-1', embedUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
-  { id: '7', type: 'live', title: 'Sunday Morning Worship', artist: 'PraiseMotion', thumbnailId: 'music-live-2', embedUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
+  { id: '1', type: 'song', title: 'Grace that Overflows', artist: 'Praise Motion Band', thumbnailId: 'music-album-1', embedUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
+  { id: '2', type: 'song', title: 'Unending Praise', artist: 'Praise Motion Band', thumbnailId: 'music-album-2', embedUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
+  { id: '3', type: 'song', title: 'Anchor of My Soul', artist: 'Praise Motion Band', thumbnailId: 'music-album-3', embedUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
+  { id: '4', type: 'video', title: 'Live at the Cathedral', artist: 'Praise Motion Band', thumbnailId: 'music-video-1', embedUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
+  { id: '5', type: 'video', title: 'Behind the Music', artist: 'Praise Motion Band', thumbnailId: 'music-video-2', embedUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
+  { id: '6', type: 'live', title: 'Acoustic Worship Sessions', artist: 'Praise Motion Band', thumbnailId: 'music-live-1', embedUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
+  { id: '7', type: 'live', title: 'Sunday Morning Worship', artist: 'Praise Motion Band', thumbnailId: 'music-live-2', embedUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
 ];
 
 const MediaCard = ({ item }: { item: MediaItem }) => {

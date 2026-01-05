@@ -25,7 +25,7 @@ const Header = () => {
         <Link href="/" className="mr-6 flex items-center space-x-2">
           <Music className="h-6 w-6 text-primary" />
           <span className="hidden font-bold sm:inline-block font-headline text-lg">
-            PraiseMotion Hub
+            Praise Motion Band
           </span>
         </Link>
         
@@ -61,7 +61,7 @@ const Header = () => {
                 <div className="flex items-center justify-between border-b pb-4">
                   <Link href="/" className="flex items-center space-x-2" onClick={() => setIsMobileMenuOpen(false)}>
                     <Music className="h-6 w-6 text-primary" />
-                    <span className="font-bold font-headline text-lg">PraiseMotion Hub</span>
+                    <span className="font-bold font-headline text-lg">Praise Motion Band</span>
                   </Link>
                 </div>
                 <nav className="flex flex-col gap-4 mt-8">

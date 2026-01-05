@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="md:col-span-1">
             <Link href="/" className="font-headline text-2xl font-bold">
-              PraiseMotion Hub
+              Praise Motion Band
             </Link>
             <p className="mt-2 text-sm text-muted-foreground">
               Spreading faith, hope, and love through music.
@@ -52,7 +52,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="mt-8 border-t pt-8 text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} PraiseMotion Hub. All Rights Reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Praise Motion Band. All Rights Reserved.</p>
         </div>
       </div>
     </footer>

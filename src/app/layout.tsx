@@ -6,8 +6,8 @@ import Header from '@/components/layout/header';
 import Footer from '@/components/layout/footer';
 
 export const metadata: Metadata = {
-  title: 'PraiseMotion Hub',
-  description: 'The official hub for PraiseMotion music, events, and community.',
+  title: 'Praise Motion Band',
+  description: 'The official hub for Praise Motion Band music, events, and community.',
 };
 
 export default function RootLayout({

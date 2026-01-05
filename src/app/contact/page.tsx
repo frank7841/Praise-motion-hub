@@ -129,7 +129,7 @@ export default function ContactPage() {
                   <Mail className="h-5 w-5 mt-1 text-primary" />
                   <div>
                     <h4 className="font-semibold">Email</h4>
-                    <a href="mailto:connect@praisemotion.com" className="text-muted-foreground hover:text-primary transition-colors">connect@praisemotion.com</a>
+                    <a href="mailto:connect@praisemotionband.com" className="text-muted-foreground hover:text-primary transition-colors">connect@praisemotionband.com</a>
                   </div>
                 </div>
                  <div className="flex items-start gap-4">
