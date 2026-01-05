@@ -27,3 +27,11 @@ export type SocialPost = {
   likes: number;
   comments: number;
 };
+
+export type BandMember = {
+  id: string;
+  name: string;
+  role: string;
+  bio: string;
+  imageId: string;
+};
