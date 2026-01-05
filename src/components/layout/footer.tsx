@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { Instagram, Youtube, Heart } from 'lucide-react';
+import { Facebook, Instagram, Twitter, Youtube, Heart } from 'lucide-react';
 import { TikTokIcon } from '@/components/icons';
 
 const Footer = () => {
@@ -23,6 +23,12 @@ const Footer = () => {
               </Link>
               <Link href="#" className="text-muted-foreground hover:text-primary">
                 <TikTokIcon />
+              </Link>
+              <Link href="#" className="text-muted-foreground hover:text-primary">
+                <Facebook />
+              </Link>
+              <Link href="#" className="text-muted-foreground hover:text-primary">
+                <Twitter />
               </Link>
             </div>
           </div>

@@ -19,7 +19,7 @@ export type Event = {
 
 export type SocialPost = {
   id: string;
-  platform: 'instagram' | 'tiktok' | 'youtube';
+  platform: 'instagram' | 'tiktok' | 'youtube' | 'facebook' | 'twitter';
   username: string;
   userImageId: string;
   postImageId: string;

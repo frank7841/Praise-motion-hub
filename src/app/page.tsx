@@ -12,11 +12,13 @@ import { Card, CardContent } from '@/components/ui/card';
 import {
   ArrowRight,
   CalendarDays,
+  Facebook,
   Heart,
   Instagram,
   MoveRight,
   Music,
   PlayCircle,
+  Twitter,
   Youtube,
 } from 'lucide-react';
 import { PlaceHolderImages } from '@/lib/placeholder-images';
@@ -131,6 +133,26 @@ const socialData: SocialPost[] = [
     caption: 'Our new single "Grace that Overflows" is out now on YouTube!',
     likes: 3100,
     comments: 212,
+  },
+    {
+    id: 'social-4',
+    platform: 'facebook',
+    username: 'Praise Motion Band',
+    userImageId: 'social-user-1',
+    postImageId: 'social-post-4',
+    caption: 'Join our Facebook community for exclusive updates and live Q&As!',
+    likes: 5400,
+    comments: 312,
+  },
+  {
+    id: 'social-5',
+    platform: 'twitter',
+    username: '@praisemotion',
+    userImageId: 'social-user-1',
+    postImageId: 'social-post-5',
+    caption: 'New tour dates will be announced tomorrow! Where should we go next? #tourlife',
+    likes: 890,
+    comments: 150,
   },
 ];
 
@@ -282,6 +304,8 @@ const SocialSection = () => {
             case 'instagram': return <Instagram className="h-5 w-5" />;
             case 'tiktok': return <TikTokIcon className="h-5 w-5" />;
             case 'youtube': return <Youtube className="h-5 w-5" />;
+            case 'facebook': return <Facebook className="h-5 w-5" />;
+            case 'twitter': return <Twitter className="h-5 w-5" />;
         }
     };
     
@@ -307,7 +331,7 @@ const SocialSection = () => {
         <h2 className="font-headline text-3xl md:text-4xl font-bold">Join Our Community</h2>
         <p className="text-muted-foreground mt-2">Follow our journey on social media.</p>
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8">
         {socialData.map(post => {
             const userImage = PlaceHolderImages.find(p => p.id === post.userImageId);
             const postImage = PlaceHolderImages.find(p => p.id === post.postImageId);
