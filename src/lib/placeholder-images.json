@@ -9,13 +9,13 @@
     {
       "id": "hero-banner-2",
       "description": "A close-up of a person's hands raised in worship during a concert.",
-      "imageUrl": "https://images.unsplash.com/photo-1759592702555-7fc4b68b4755?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwcmFpc2UlMjBoYW5kc3xlbnwwfHx8fDE3Njc2MTI4ODB8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1759592702555-7fc4b68b4755?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwcmFpc2UlMjBoYW5kc3xlbnwwfHx8fDE3Njc2MTI4ODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "praise hands"
     },
     {
       "id": "hero-banner-3",
       "description": "An empty, beautifully lit auditorium stage before a show.",
-      "imageUrl": "https://images.unsplash.com/photo-1567942712661-82b9b407abbf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb25jZXJ0JTIwc3RhZ2V8ZW58MHx8fHwxNzY3NTAwNTI3fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1567942712661-82b9b407abbf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb25jZXJ0JTIwc3RhZ2V8ZW58MHx8fHwxNzY3NTAwNTI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "concert stage"
     },
     {
@@ -33,13 +33,13 @@
     {
       "id": "music-album-3",
       "description": "Minimalist geometric design for an album cover.",
-      "imageUrl": "https://images.unsplash.com/photo-1605106702842-01a887a31122?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhYnN0cmFjdCUyMGRlc2lnbnxlbnwwfHx8fDE3Njc1MzY0NTF8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1605106702842-01a887a31122?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhYnN0cmFjdCUyMGRlc2lnbnxlbnwwfHx8fDE3Njc1MzY0NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "abstract design"
     },
     {
       "id": "music-video-1",
       "description": "A cinematic shot from a music video, showing a band playing outdoors.",
-      "imageUrl": "https://images.unsplash.com/photo-1660215546109-57352d32408c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxiYW5kJTIwcGxheWluZ3xlbnwwfHx8fDE3Njc2MTI4ODB8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1660215546109-57352d32408c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxiYW5kJTIwcGxheWluZ3xlbnwwfHx8fDE3Njc2MTI4ODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "band playing"
     },
     {
@@ -147,13 +147,13 @@
     {
       "id": "member-chloe",
       "description": "Portrait of Chloe, the drummer.",
-      "imageUrl": "https://images.unsplash.com/photo-1559311648-d46f5d8593d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8Ymxhbmt8ZW58MHx8fHwxNzY3NjQwMTc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1559311648-d46f5d8593d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8Ymxhbmt8ZW58MHx8fHwxNzY3NjQwMTc2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "user profile"
     },
     {
       "id": "member-ben",
       "description": "Portrait of Ben, the keyboardist.",
-      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1559311648-d46f5d8593d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8Ymxhbmt8ZW58MHx8fHwxNzY3NjQwMTc2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "user profile"
     },
     {
@@ -179,6 +179,12 @@
       "description": "Portrait of Sophia, the cellist.",
       "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=1080",
       "imageHint": "user profile"
+    },
+    {
+      "id": "social-post-6",
+      "description": "Our new album 'Eternal Echoes' is now streaming on Spotify!",
+      "imageUrl": "https://images.unsplash.com/photo-1711054824441-064a99073a0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhbGJ1bSUyMGNvdmVyfGVufDB8fHx8MTc2NzYwNDQ2OXww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "album cover"
     }
   ]
 }
