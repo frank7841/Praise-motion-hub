@@ -23,7 +23,7 @@ import {
 } from 'lucide-react';
 import { PlaceHolderImages } from '@/lib/placeholder-images';
 import type { Event, MediaItem, SocialPost } from '@/lib/types';
-import { TikTokIcon } from '@/components/icons';
+import { TikTokIcon, SpotifyIcon } from '@/components/icons';
 
 // Mock Data
 const heroData = [
@@ -153,6 +153,16 @@ const socialData: SocialPost[] = [
     caption: 'New tour dates will be announced tomorrow! Where should we go next? #tourlife',
     likes: 890,
     comments: 150,
+  },
+   {
+    id: 'social-6',
+    platform: 'spotify',
+    username: 'Praise Motion Band',
+    userImageId: 'social-user-1',
+    postImageId: 'music-album-1',
+    caption: 'Our new album "Eternal Echoes" is now streaming on Spotify!',
+    likes: 10000,
+    comments: 500,
   },
 ];
 
@@ -306,6 +316,7 @@ const SocialSection = () => {
             case 'youtube': return <Youtube className="h-5 w-5" />;
             case 'facebook': return <Facebook className="h-5 w-5" />;
             case 'twitter': return <Twitter className="h-5 w-5" />;
+            case 'spotify': return <SpotifyIcon className="h-5 w-5" />;
         }
     };
     
@@ -331,7 +342,7 @@ const SocialSection = () => {
         <h2 className="font-headline text-3xl md:text-4xl font-bold">Join Our Community</h2>
         <p className="text-muted-foreground mt-2">Follow our journey on social media.</p>
       </div>
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-8">
         {socialData.map(post => {
             const userImage = PlaceHolderImages.find(p => p.id === post.userImageId);
             const postImage = PlaceHolderImages.find(p => p.id === post.postImageId);
