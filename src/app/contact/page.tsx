@@ -61,7 +61,7 @@ export default function ContactPage() {
         <div className="text-center mb-12">
           <h1 className="font-headline text-4xl md:text-5xl font-bold">Get In Touch</h1>
           <p className="text-muted-foreground mt-2 max-w-2xl mx-auto">
-            We&apos;d love to hear from you. Whether it&apos;s a question, a prayer request, or a booking inquiry, feel free to reach out.
+            We'd love to hear from you. Whether it's a question, a prayer request, or a booking inquiry, feel free to reach out.
           </p>
         </div>
 
@@ -70,7 +70,7 @@ export default function ContactPage() {
             <Card>
               <CardContent className="p-8">
                 <Form {...form}>
-                  <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6" suppressHydrationWarning>
+                  <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6" suppressHydrationWarning={true}>
                     <div className="grid sm:grid-cols-2 gap-6">
                       <FormField
                         control={form.control}
@@ -143,7 +143,7 @@ export default function ContactPage() {
                   <MapPin className="h-5 w-5 mt-1 text-primary" />
                   <div>
                     <h4 className="font-semibold">Location</h4>
-                    <p className="text-muted-foreground">San Francisco, CA</p>
+                    <p className="text-muted-foreground">Nairobi, Kenya</p>
                   </div>
                 </div>
               </CardContent>
