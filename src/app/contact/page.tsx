@@ -70,7 +70,7 @@ export default function ContactPage() {
             <Card>
               <CardContent className="p-8">
                 <Form {...form}>
-                  <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6">
+                  <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6" suppressHydrationWarning>
                     <div className="grid sm:grid-cols-2 gap-6">
                       <FormField
                         control={form.control}
