@@ -7,6 +7,7 @@ import { Menu, Music, X } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
 import { cn } from '@/lib/utils';
+import Image from 'next/image';
 
 const navItems = [
   { href: '/music', label: 'Music' },
@@ -24,12 +25,13 @@ const Header = () => {
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="container mx-auto flex h-16 items-center px-4">
         <Link href="/" className="mr-6 flex items-center space-x-2">
-          <Music className="h-6 w-6 text-primary" />
+          {/* <Music className="h-6 w-6 text-primary" /> */}
+          <Image src="/images/praise-motion.png" alt="Logo" width={50} height={50} />
           <span className="hidden font-bold sm:inline-block font-headline text-lg">
             Praise Motion Band
           </span>
         </Link>
-        
+
         <nav className="hidden md:flex md:items-center md:gap-6 text-sm font-medium">
           {navItems.map((item) => (
             <Link
@@ -81,9 +83,9 @@ const Header = () => {
                   ))}
                 </nav>
                 <div className="mt-auto">
-                    <Button asChild className="w-full" size="lg">
-                        <Link href="/donate" onClick={() => setIsMobileMenuOpen(false)}>Donate Now</Link>
-                    </Button>
+                  <Button asChild className="w-full" size="lg">
+                    <Link href="/donate" onClick={() => setIsMobileMenuOpen(false)}>Donate Now</Link>
+                  </Button>
                 </div>
               </div>
             </SheetContent>
