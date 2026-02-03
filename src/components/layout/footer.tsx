@@ -18,7 +18,7 @@ const Footer = () => {
               <Link href="#" className="text-muted-foreground hover:text-primary">
                 <Instagram />
               </Link>
-              <Link href="#" className="text-muted-foreground hover:text-primary">
+              <Link href="https://www.youtube.com/@praisemotionband?si=H0Hdv69stUAEwcng" className="text-muted-foreground hover:text-primary">
                 <Youtube />
               </Link>
               {/* <Link href="#" className="text-muted-foreground hover:text-primary">

@@ -45,7 +45,7 @@ export default function ContactPage() {
       message: "",
     },
   })
- 
+
   function onSubmit(values: z.infer<typeof formSchema>) {
     console.log(values) // In a real app, you'd send this to a server
     toast({
@@ -129,14 +129,14 @@ export default function ContactPage() {
                   <Mail className="h-5 w-5 mt-1 text-primary" />
                   <div>
                     <h4 className="font-semibold">Email</h4>
-                    <a href="mailto:connect@praisemotionband.com" className="text-muted-foreground hover:text-primary transition-colors">connect@praisemotionband.com</a>
+                    <a href="mailto:praisemotionband@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">praisemotionband@gmail.com</a>
                   </div>
                 </div>
-                 <div className="flex items-start gap-4">
+                <div className="flex items-start gap-4">
                   <Phone className="h-5 w-5 mt-1 text-primary" />
                   <div>
                     <h4 className="font-semibold">Phone</h4>
-                    <p className="text-muted-foreground">(123) 456-7890</p>
+                    <p className="text-muted-foreground">+254 115265874</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
@@ -148,19 +148,19 @@ export default function ContactPage() {
                 </div>
               </CardContent>
             </Card>
-             <Card className="overflow-hidden">
-                <div className="relative h-64 w-full">
-                    {mapImage && 
-                        <Image
-                            src={mapImage.imageUrl}
-                            alt={mapImage.description}
-                            fill
-                            className="object-cover"
-                            data-ai-hint={mapImage.imageHint}
-                        />
-                    }
-                    <div className="absolute inset-0 bg-black/30" />
-                </div>
+            <Card className="overflow-hidden">
+              <div className="relative h-64 w-full">
+                {mapImage &&
+                  <Image
+                    src={mapImage.imageUrl}
+                    alt={mapImage.description}
+                    fill
+                    className="object-cover"
+                    data-ai-hint={mapImage.imageHint}
+                  />
+                }
+                <div className="absolute inset-0 bg-black/30" />
+              </div>
             </Card>
           </div>
         </div>
