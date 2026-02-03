@@ -15,7 +15,7 @@ const Footer = () => {
               Spreading faith, hope, and love through music.
             </p>
             <div className="mt-4 flex space-x-4">
-              <Link href="#" className="text-muted-foreground hover:text-primary">
+              <Link href="https://www.instagram.com/praisemotionband?igsh=MWd5bWc0YjBpZXR5ZA%3D%3D&utm_source=qr" className="text-muted-foreground hover:text-primary">
                 <Instagram />
               </Link>
               <Link href="https://www.youtube.com/@praisemotionband?si=H0Hdv69stUAEwcng" className="text-muted-foreground hover:text-primary">
