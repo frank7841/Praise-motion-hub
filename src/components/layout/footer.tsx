@@ -1,15 +1,15 @@
 import Link from 'next/link';
 import { Facebook, Instagram, Twitter, Youtube, Heart } from 'lucide-react';
 import { TikTokIcon, SpotifyIcon } from '@/components/icons';
-
+import Image from 'next/image';
 const Footer = () => {
   return (
     <footer className="bg-card border-t">
       <div className="container mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="md:col-span-1">
-            <Link href="/" className="font-headline text-2xl font-bold">
-              Praise Motion Band
+            <Link href="/" className="font-headline text-2xl font-bold flex items-center gap-2">
+              <Image src="/images/praise-motion.png" alt="Logo" width={50} height={50} /> Praise Motion Band
             </Link>
             <p className="mt-2 text-sm text-muted-foreground">
               Spreading faith, hope, and love through music.
@@ -21,18 +21,18 @@ const Footer = () => {
               <Link href="#" className="text-muted-foreground hover:text-primary">
                 <Youtube />
               </Link>
-              <Link href="#" className="text-muted-foreground hover:text-primary">
+              {/* <Link href="#" className="text-muted-foreground hover:text-primary">
                 <TikTokIcon />
-              </Link>
+              </Link> */}
               <Link href="#" className="text-muted-foreground hover:text-primary">
                 <Facebook />
               </Link>
               <Link href="#" className="text-muted-foreground hover:text-primary">
                 <Twitter />
               </Link>
-              <Link href="#" className="text-muted-foreground hover:text-primary">
+              {/* <Link href="#" className="text-muted-foreground hover:text-primary">
                 <SpotifyIcon />
-              </Link>
+              </Link> */}
             </div>
           </div>
           <div className="md:col-span-3 grid grid-cols-2 md:grid-cols-3 gap-8">
